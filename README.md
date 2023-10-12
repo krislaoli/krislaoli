@@ -2,7 +2,7 @@
 Let’s code editing and the beauty of code
 
 ⚡ Fun fact: Teach Me Coding
-[![](https://visitcount.itsvg.in/api?id=krislaoli&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=krislaoli&label=Profile%20Views&pretty=false" />
 </a>
