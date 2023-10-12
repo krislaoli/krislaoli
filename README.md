@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">We are trying to be the best in the world of coding</h3>
 Let’s code editing and the beauty of code
 
 ⚡ Fun fact: Teach Me Coding
