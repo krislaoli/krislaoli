@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">We are trying to be the best in the world of coding</h3>
-Let’s code editing and the beauty of code
+<h3 align="center">Let’s code editing and the beauty of code</h3>
 
-⚡ Fun fact: Teach Me Coding
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=krislaoli&label=Profile%20Views&pretty=false" />
