@@ -2,6 +2,10 @@
 Let’s code editing and the beauty of code
 
 ⚡ Fun fact: Teach Me Coding
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=krislaoli&label=Profile%20Views&pretty=false" />
+</a>
 <!--
 **krislaoli/krislaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
