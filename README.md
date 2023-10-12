@@ -1,3 +1,6 @@
+
+<h1 align="center">Hi 👋, I'm Kris</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 Let’s code editing and the beauty of code
 
 ⚡ Fun fact: Teach Me Coding
@@ -11,9 +14,6 @@ Let’s code editing and the beauty of code
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislaoli&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 <h3 align="left">Connect with me:</h3>
