@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislaoli&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/78/17/04/7817047889af38d483287d632d383e6e.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
