@@ -25,7 +25,6 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=krislaoli&label=Views%20Profile&color=11&icon=5&pretty=false" />
 </a>
-[![](https://visitcount.itsvg.in/api?id=krislaoli&label=Views%20Profile&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **krislaoli/krislaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
