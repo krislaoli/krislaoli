@@ -1,5 +1,5 @@
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><a href="https://visitcount.itsvg.in">
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><img src="https://visitcount.itsvg.in/api?id=krislaoli&label=Views%20Profile&color=11&icon=5&pretty=false">
+<a href="https://visitcount.itsvg.in">
+ <img src="https://visitcount.itsvg.in/api?id=krislaoli&label=Views%20Profile&color=11&icon=5&pretty=false">
 </a>
 <p align="start"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krislaoli&theme=monokai">
