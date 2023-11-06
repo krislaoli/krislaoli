@@ -5,9 +5,9 @@
   <img   align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislaoli&layout=compact&theme=monokai&langs_count=12"/>
 </p>
 
- <img align="start" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
+<!-- <img align="start" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
 
-<!-- <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kris05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kris05/" height="30" width="40" /></a>
 </p> -->
@@ -17,7 +17,7 @@
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=krislaoli&label=Views%20Profile&color=11&icon=5&pretty=false"
-</a> />
+</a>
 
 <!--
 **krislaoli/krislaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
