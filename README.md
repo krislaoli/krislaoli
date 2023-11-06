@@ -1,9 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">Let’s code editing and the beauty of code</h3>
-
-
-
 <p align="start"><br /><br />
   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=krislaoli&theme=monokai"/>
   <img  src="https://github-readme-stats.vercel.app/api?username=krislaoli&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
