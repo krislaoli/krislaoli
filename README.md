@@ -1,9 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Kris</h1>
 <p align="start"/>
   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=krislaoli&theme=monokai"/>
   <img  src="https://github-readme-stats.vercel.app/api?username=krislaoli&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislaoli&layout=compact&theme=monokai&langs_count=12"/>
+  <img   align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislaoli&layout=compact&theme=monokai&langs_count=12"/>
 </p>
 
 <img align="start" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
